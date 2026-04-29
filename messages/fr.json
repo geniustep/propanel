@@ -13,7 +13,7 @@
     "title": "Votre Partenaire en",
     "titleAccent": "Signalétique & Affichage",
     "titleEnd": "Professionnel",
-    "subtitle": "Fabrication sur mesure, installation professionnelle et maintenance partout au Maroc. De la conception à la pose, PRO PANEL vous offre une solution clé en main.",
+    "subtitle": "Fabrication sur mesure, installation professionnelle et maintenance partout au Maroc. De la conception à la pose, PROPANEL vous offre une solution clé en main.",
     "cta": "Demander un Devis Gratuit",
     "ctaSecondary": "Voir nos Réalisations",
     "stat1Value": "500+",
@@ -92,7 +92,7 @@
     }
   },
   "whyUs": {
-    "title": "Pourquoi Choisir PRO PANEL ?",
+    "title": "Pourquoi Choisir PROPANEL ?",
     "subtitle": "Leader de la signalétique au Maroc, nous combinons expertise technique et créativité pour des résultats exceptionnels.",
     "reason1Title": "Expertise Certifiée",
     "reason1Desc": "Plus de 10 ans d'expérience dans la signalétique et l'affichage publicitaire au Maroc. Notre équipe maîtrise les dernières technologies.",
@@ -149,10 +149,10 @@
     "or": "ou"
   },
   "about": {
-    "title": "À Propos de PRO PANEL",
+    "title": "À Propos de PROPANEL",
     "subtitle": "Votre partenaire de confiance en signalétique et affichage professionnel depuis plus de 10 ans.",
     "storyTitle": "Notre Histoire",
-    "storyText": "Fondée à Tanger, PRO PANEL est née de la passion pour la communication visuelle et de la conviction que chaque entreprise mérite une identité visuelle forte. Depuis nos débuts, nous n'avons cessé de grandir, d'innover et d'élargir notre gamme de services pour répondre aux besoins croissants du marché marocain.",
+    "storyText": "Fondée à Tanger, PROPANEL est née de la passion pour la communication visuelle et de la conviction que chaque entreprise mérite une identité visuelle forte. Depuis nos débuts, nous n'avons cessé de grandir, d'innover et d'élargir notre gamme de services pour répondre aux besoins croissants du marché marocain.",
     "storyText2": "Aujourd'hui, nous sommes fiers d'être l'un des acteurs référents de la signalétique au Maroc, avec une équipe dédiée, un atelier moderne et une présence nationale.",
     "valuesTitle": "Nos Valeurs",
     "value1": "Excellence",
@@ -163,7 +163,7 @@
     "value3Desc": "Transparence et honnêteté dans toutes nos relations commerciales.",
     "value4": "Service",
     "value4Desc": "La satisfaction client est notre priorité absolue, avant, pendant et après le projet.",
-    "statsTitle": "PRO PANEL en Chiffres",
+    "statsTitle": "PROPANEL en Chiffres",
     "stat1": "500+ Projets",
     "stat2": "10+ Ans",
     "stat3": "50+ Villes",
@@ -254,27 +254,27 @@
   },
   "meta": {
     "home": {
-      "title": "PRO PANEL – Signalétique & Enseignes Publicitaires au Maroc | Tanger",
-      "description": "PRO PANEL, expert en signalétique, enseignes, logos 3D, totems publicitaires et impression grand format au Maroc. Solution clé en main, de la conception à la pose. Devis gratuit."
+      "title": "PROPANEL – Signalétique & Enseignes Publicitaires au Maroc | Tanger",
+      "description": "PROPANEL, expert en signalétique, enseignes, logos 3D, totems publicitaires et impression grand format au Maroc. Solution clé en main, de la conception à la pose. Devis gratuit."
     },
     "services": {
-      "title": "Nos Services – Signalétique & Affichage | PRO PANEL Maroc",
+      "title": "Nos Services – Signalétique & Affichage | PROPANEL Maroc",
       "description": "Découvrez tous nos services : signalétique, logo 3D, logo inox, totem publicitaire, habillage façade, impression grand format et maintenance au Maroc."
     },
     "portfolio": {
-      "title": "Portfolio & Réalisations – PRO PANEL Maroc",
+      "title": "Portfolio & Réalisations – PROPANEL Maroc",
       "description": "Découvrez nos réalisations en signalétique, enseignes et affichage publicitaire à travers tout le Maroc."
     },
     "about": {
-      "title": "À Propos de PRO PANEL – Expert Signalétique au Maroc",
-      "description": "Découvrez l'histoire, les valeurs et l'équipe de PRO PANEL, votre partenaire expert en signalétique au Maroc depuis plus de 10 ans."
+      "title": "À Propos de PROPANEL – Expert Signalétique au Maroc",
+      "description": "Découvrez l'histoire, les valeurs et l'équipe de PROPANEL, votre partenaire expert en signalétique au Maroc depuis plus de 10 ans."
     },
     "contact": {
-      "title": "Contactez PRO PANEL – Devis Signalétique Maroc",
-      "description": "Contactez PRO PANEL pour tous vos besoins en signalétique et affichage publicitaire au Maroc. Devis gratuit sous 24h."
+      "title": "Contactez PROPANEL – Devis Signalétique Maroc",
+      "description": "Contactez PROPANEL pour tous vos besoins en signalétique et affichage publicitaire au Maroc. Devis gratuit sous 24h."
     },
     "quote": {
-      "title": "Demande de Devis – Signalétique & Enseignes | PRO PANEL",
+      "title": "Demande de Devis – Signalétique & Enseignes | PROPANEL",
       "description": "Demandez un devis gratuit pour votre projet de signalétique, enseigne, logo 3D ou impression grand format au Maroc."
     }
   }

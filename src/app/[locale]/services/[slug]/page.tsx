@@ -27,7 +27,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const desc = t(`${cfg.translationKey}.description`);
 
   return {
-    title: `${name} | PRO PANEL Maroc`,
+    title: `${name} | PROPANEL Maroc`,
     description: desc,
     keywords: [name, "signalétique maroc", "enseigne publicitaire", "tanger", "casablanca"],
   };

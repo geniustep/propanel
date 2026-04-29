@@ -5,7 +5,7 @@ import { MessageCircle } from "lucide-react";
 
 const WHATSAPP_NUMBER = "212600000000";
 const WHATSAPP_MESSAGE = encodeURIComponent(
-  "Bonjour PRO PANEL, je souhaite obtenir un devis pour mon projet."
+  "Bonjour PROPANEL, je souhaite obtenir un devis pour mon projet."
 );
 
 export default function WhatsAppButton() {

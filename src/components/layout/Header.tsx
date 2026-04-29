@@ -49,7 +49,7 @@ export default function Header({ locale }: Props) {
               <span className="text-white font-black text-lg leading-none">P</span>
             </div>
             <div className="leading-tight">
-              <div className="font-black text-neutral-900 text-lg tracking-tight">PRO PANEL</div>
+              <div className="font-black text-neutral-900 text-lg tracking-tight">PROPANEL</div>
               <div className="text-[10px] text-neutral-500 uppercase tracking-widest hidden sm:block">
                 Signalétique & Publicité
               </div>

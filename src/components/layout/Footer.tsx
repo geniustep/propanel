@@ -23,7 +23,7 @@ export default function Footer({ locale }: Props) {
                 <span className="text-white font-black text-lg leading-none">P</span>
               </div>
               <div>
-                <div className="font-black text-white text-lg tracking-tight">PRO PANEL</div>
+                <div className="font-black text-white text-lg tracking-tight">PROPANEL</div>
                 <div className="text-[10px] text-neutral-400 uppercase tracking-widest">
                   Signalétique & Publicité
                 </div>
@@ -141,7 +141,7 @@ export default function Footer({ locale }: Props) {
       <div className="border-t border-neutral-800">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-5 flex flex-col sm:flex-row items-center justify-between gap-3">
           <p className="text-neutral-500 text-xs">
-            &copy; {new Date().getFullYear()} PRO PANEL. {t("rights")}
+            &copy; {new Date().getFullYear()} PROPANEL. {t("rights")}
           </p>
           <div className="flex items-center gap-4">
             <a href="#" className="text-neutral-500 hover:text-neutral-300 text-xs transition-colors">

@@ -9,9 +9,9 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  title: "PRO PANEL – Signalétique & Enseignes Publicitaires au Maroc",
+  title: "PROPANEL – Signalétique & Enseignes Publicitaires au Maroc",
   description:
-    "PRO PANEL, expert en signalétique, enseignes, logos 3D et impression grand format au Maroc. Solution clé en main.",
+    "PROPANEL, expert en signalétique, enseignes, logos 3D et impression grand format au Maroc. Solution clé en main.",
 };
 
 export default function RootLayout({

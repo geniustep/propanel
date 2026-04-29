@@ -9,21 +9,21 @@ const TESTIMONIALS = [
     name: "Mohammed Alami",
     role: "Directeur Général, Mall Express Tanger",
     content:
-      "PRO PANEL a réalisé l'ensemble de notre signalétique en un temps record. Qualité impeccable, équipe professionnelle et respect total des délais. Je les recommande sans hésitation.",
+      "PROPANEL a réalisé l'ensemble de notre signalétique en un temps record. Qualité impeccable, équipe professionnelle et respect total des délais. Je les recommande sans hésitation.",
     rating: 5,
   },
   {
     name: "Fatima Benali",
     role: "Responsable Marketing, Attijariwafa Bank",
     content:
-      "Nous faisons confiance à PRO PANEL depuis 3 ans pour nos agences dans tout le Maroc. Leur cohérence dans la qualité et leur réactivité font la différence.",
+      "Nous faisons confiance à PROPANEL depuis 3 ans pour nos agences dans tout le Maroc. Leur cohérence dans la qualité et leur réactivité font la différence.",
     rating: 5,
   },
   {
     name: "Karim Tazi",
     role: "Gérant, Résidence Jardins du Détroit",
     content:
-      "La palissade de chantier réalisée par PRO PANEL a transformé notre site de construction en véritable vitrine marketing. Excellent travail !",
+      "La palissade de chantier réalisée par PROPANEL a transformé notre site de construction en véritable vitrine marketing. Excellent travail !",
     rating: 5,
   },
   {

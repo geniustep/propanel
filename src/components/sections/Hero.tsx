@@ -139,7 +139,7 @@ export default function Hero() {
                 {/* Mock sign visual */}
                 <div className="relative z-10 h-full flex flex-col items-center justify-center gap-6">
                   <div className="w-full max-w-xs bg-white/10 backdrop-blur-sm rounded-2xl p-6 border border-white/20">
-                    <div className="text-white text-4xl font-black tracking-tighter text-center">PRO PANEL</div>
+                    <div className="text-white text-4xl font-black tracking-tighter text-center">PROPANEL</div>
                     <div className="text-white/60 text-xs text-center mt-1 tracking-widest uppercase">Signalétique</div>
                   </div>
 

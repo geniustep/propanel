@@ -20,11 +20,11 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const { locale } = await params;
   const t = await getTranslations({ locale, namespace: "meta.home" });
   return {
-    title: { template: "%s | PRO PANEL", default: t("title") },
+    title: { template: "%s | PROPANEL", default: t("title") },
     description: t("description"),
     metadataBase: new URL("https://propanel.ma"),
     openGraph: {
-      siteName: "PRO PANEL",
+      siteName: "PROPANEL",
       locale: locale === "ar" ? "ar_MA" : locale === "fr" ? "fr_MA" : locale === "es" ? "es_ES" : "en_US",
     },
   };

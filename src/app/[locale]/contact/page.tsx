@@ -188,7 +188,7 @@ export default function ContactPage() {
 
               {/* WhatsApp CTA */}
               <motion.a
-                href={`https://wa.me/${WHATSAPP_NUMBER}?text=${encodeURIComponent("Bonjour PRO PANEL, je souhaite obtenir un devis.")}`}
+                href={`https://wa.me/${WHATSAPP_NUMBER}?text=${encodeURIComponent("Bonjour PROPANEL, je souhaite obtenir un devis.")}`}
                 target="_blank"
                 rel="noopener noreferrer"
                 initial={{ opacity: 0, x: 20 }}
