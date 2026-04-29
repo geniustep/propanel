@@ -1,0 +1,281 @@
+{
+  "nav": {
+    "home": "Inicio",
+    "services": "Servicios",
+    "portfolio": "Portfolio",
+    "about": "Sobre Nosotros",
+    "contact": "Contacto",
+    "quote": "Solicitar Presupuesto",
+    "allServices": "Todos los servicios"
+  },
+  "hero": {
+    "badge": "Experto en Señalización en Marruecos",
+    "title": "Su Socio en",
+    "titleAccent": "Señalización y Publicidad",
+    "titleEnd": "Profesional",
+    "subtitle": "Fabricación a medida, instalación profesional y mantenimiento en todo Marruecos. De la concepción a la instalación, PRO PANEL ofrece una solución llave en mano.",
+    "cta": "Solicitar Presupuesto Gratuito",
+    "ctaSecondary": "Ver Nuestras Realizaciones",
+    "stat1Value": "500+",
+    "stat1Label": "Proyectos Realizados",
+    "stat2Value": "10+",
+    "stat2Label": "Años de Experiencia",
+    "stat3Value": "50+",
+    "stat3Label": "Ciudades en Marruecos"
+  },
+  "services": {
+    "title": "Nuestros Servicios",
+    "subtitle": "Una gama completa de soluciones en señalización y publicidad para valorizar su imagen de marca.",
+    "learnMore": "Saber más",
+    "signaletique": {
+      "name": "Señalización",
+      "short": "Señalización profesional interior y exterior para guiar e informar.",
+      "description": "Diseño y fabricación de sistemas de señalización profesionales adaptados a sus necesidades específicas.",
+      "materials": ["Aluminio", "Acero inoxidable", "Dibond", "Plexiglás", "PVC expandido"],
+      "useCases": ["Centros comerciales", "Oficinas corporativas", "Instalaciones sanitarias", "Hoteles", "Aeropuertos", "Escuelas"]
+    },
+    "logo3d": {
+      "name": "Logo 3D",
+      "short": "Letras y logos en relieve para una identidad visual impactante.",
+      "description": "Cree un impacto visual duradero con nuestros logos y letras en volumen 3D. Fabricados con materiales premium.",
+      "materials": ["Aluminio cepillado", "Plexiglás iluminado", "PVC expandido", "Espuma de alta densidad", "Poliestireno"],
+      "useCases": ["Fachadas de tiendas", "Recepciones corporativas", "Hoteles", "Salas de exposición", "Clínicas"]
+    },
+    "logoInox": {
+      "name": "Logo Inox",
+      "short": "Letras recortadas en acero inoxidable, elegantes y duraderas.",
+      "description": "El acero inoxidable ofrece un acabado lujoso y una durabilidad excepcional. Ideal para letreros de alta gama.",
+      "materials": ["Inox 304", "Inox 316 (marino)", "Inox cepillado", "Inox espejo pulido", "Inox lacado"],
+      "useCases": ["Bancos", "Consultorios médicos", "Empresas premium", "Hoteles 5 estrellas", "Sedes corporativas"]
+    },
+    "totemPublicitaire": {
+      "name": "Tótem Publicitario",
+      "short": "Tótems y pilones publicitarios para máxima visibilidad.",
+      "description": "Los tótems publicitarios ofrecen una visibilidad excepcional desde la carretera. Diseñados para resistir las inclemencias del tiempo.",
+      "materials": ["Aluminio extruido", "Acero galvanizado", "Inoxidable", "Cajas de luz", "Vinilo de alta resistencia"],
+      "useCases": ["Centros comerciales", "Gasolineras", "Hoteles", "Complejos residenciales", "Zonas industriales", "Franquicias"]
+    },
+    "habillage": {
+      "name": "Revestimiento de Fachada",
+      "short": "Transformación completa de fachadas para un acabado premium.",
+      "description": "Dé un nuevo aspecto a su fachada con nuestras soluciones profesionales de revestimiento.",
+      "materials": ["Paneles compuestos (Dibond)", "Tela tensada", "Vinilo adhesivo", "Revestimiento de aluminio", "OSB pintado"],
+      "useCases": ["Tiendas y comercios", "Restaurantes", "Hoteles", "Bancos", "Salas de exposición", "Inmobiliaria"]
+    },
+    "palissade": {
+      "name": "Valla de Obra",
+      "short": "Cercas y vallas publicitarias para valorizar sus obras.",
+      "description": "Transforme sus obras en soportes publicitarios. Nuestras vallas comunicadoras combinan seguridad y comunicación de marca.",
+      "materials": ["Paneles PVC", "Vallas de madera", "Mallas con telas", "Paneles metálicos", "Impresión UV"],
+      "useCases": ["Obras inmobiliarias", "Renovaciones comerciales", "Obras públicas", "Eventos", "Promotores inmobiliarios"]
+    },
+    "impression": {
+      "name": "Impresión Gran Formato",
+      "short": "Impresión digital de alta resolución en todos los soportes.",
+      "description": "Nuestros equipos de impresión gran formato de última generación garantizan colores vibrantes y resolución perfecta.",
+      "materials": ["Lona PVC 510g", "Vinilo adhesivo", "Tela canvas", "Papel fotográfico", "Tela backlit", "Polipropileno"],
+      "useCases": ["Publicidad exterior", "Stands de exposición", "Decoración interior", "Eventos", "PLV", "Pancartas"]
+    },
+    "menuiserie": {
+      "name": "Carpintería de Aluminio",
+      "short": "Estructuras y marcos de aluminio a medida para sus letreros.",
+      "description": "Fabricación e instalación de estructuras de aluminio a medida para letreros, escaparates y fachadas.",
+      "materials": ["Perfiles de aluminio anodizado", "Aluminio lacado", "Vidrio templado", "Paneles sándwich", "Juntas de estanqueidad"],
+      "useCases": ["Escaparates comerciales", "Marquesinas", "Mamparas de oficina", "Fachadas ligeras", "Cajas de luz"]
+    },
+    "maintenance": {
+      "name": "Mantenimiento",
+      "short": "Mantenimiento y reparación de sus letreros y dispositivos luminosos.",
+      "description": "Prolongue la vida útil de sus instalaciones con nuestros servicios de mantenimiento preventivo y correctivo.",
+      "materials": ["LED de alta calidad", "Transformadores", "Cableado eléctrico", "Pinturas industriales", "Fijaciones inox"],
+      "useCases": ["Letreros luminosos", "Tótems", "Paneles exteriores", "Señalización interior", "Fachadas revestidas"]
+    }
+  },
+  "whyUs": {
+    "title": "¿Por Qué Elegir PRO PANEL?",
+    "subtitle": "Líder en señalización en Marruecos, combinamos experiencia técnica y creatividad para resultados excepcionales.",
+    "reason1Title": "Experiencia Certificada",
+    "reason1Desc": "Más de 10 años de experiencia en señalización y publicidad exterior en Marruecos.",
+    "reason2Title": "Materiales Premium",
+    "reason2Desc": "Utilizamos exclusivamente materiales de alta calidad – aluminio, inox, dibond – para garantizar durabilidad y estética.",
+    "reason3Title": "Solución Llave en Mano",
+    "reason3Desc": "Del diseño a la instalación, gestionamos la totalidad de su proyecto.",
+    "reason4Title": "Plazos Respetados",
+    "reason4Desc": "Nos comprometemos con plazos precisos y los cumplimos. Su negocio no puede esperar.",
+    "reason5Title": "Cobertura Nacional",
+    "reason5Desc": "Nuestro equipo interviene en todas las ciudades de Marruecos.",
+    "reason6Title": "Soporte Post-venta",
+    "reason6Desc": "Nuestra relación no termina en la instalación. Aseguramos mantenimiento y reparaciones."
+  },
+  "process": {
+    "title": "Nuestro Proceso de Trabajo",
+    "subtitle": "Un enfoque estructurado para resultados garantizados, del primer contacto a la entrega final.",
+    "step1Title": "Consulta y Presupuesto",
+    "step1Desc": "Análisis de sus necesidades, visita al sitio si es necesario, y propuesta comercial detallada en 48h.",
+    "step2Title": "Diseño",
+    "step2Desc": "Nuestros diseñadores crean maquetas 3D y visuales HD para validar la estética antes de fabricar.",
+    "step3Title": "Fabricación",
+    "step3Desc": "Producción en nuestro taller equipado con máquinas de última tecnología con riguroso control de calidad.",
+    "step4Title": "Instalación",
+    "step4Desc": "Instalación profesional por nuestro equipo certificado, en los plazos acordados.",
+    "step5Title": "Entrega y Seguimiento",
+    "step5Desc": "Recepción con usted, documentación técnica entregada y seguimiento post-instalación."
+  },
+  "portfolio": {
+    "title": "Nuestras Realizaciones",
+    "subtitle": "Descubra algunos de nuestros proyectos realizados para clientes en todo Marruecos.",
+    "filter": {
+      "all": "Todos",
+      "signaletique": "Señalización",
+      "facade": "Fachada",
+      "logo": "Logo",
+      "totem": "Tótem",
+      "impression": "Impresión"
+    },
+    "viewAll": "Ver Todas las Realizaciones",
+    "client": "Cliente",
+    "location": "Ubicación",
+    "year": "Año"
+  },
+  "clients": {
+    "title": "Confían en Nosotros",
+    "subtitle": "Empresas de todos los sectores confían en nosotros para sus necesidades de señalización."
+  },
+  "cta": {
+    "title": "¿Listo para Transformar su Imagen?",
+    "subtitle": "Obtenga un presupuesto gratuito en 24 horas. Nuestro equipo está disponible para estudiar su proyecto.",
+    "button": "Solicitar Presupuesto Gratuito",
+    "buttonSecondary": "Llamarnos",
+    "or": "o"
+  },
+  "about": {
+    "title": "Sobre PRO PANEL",
+    "subtitle": "Su socio de confianza en señalización y publicidad profesional desde hace más de 10 años.",
+    "storyTitle": "Nuestra Historia",
+    "storyText": "Fundada en Tánger, PRO PANEL nació de la pasión por la comunicación visual y la convicción de que cada empresa merece una identidad visual fuerte.",
+    "storyText2": "Hoy somos uno de los actores referentes de la señalización en Marruecos, con un equipo dedicado, un taller moderno y presencia nacional.",
+    "valuesTitle": "Nuestros Valores",
+    "value1": "Excelencia",
+    "value1Desc": "Apuntamos a la perfección en cada proyecto, sin compromisos sobre la calidad.",
+    "value2": "Innovación",
+    "value2Desc": "Integramos continuamente nuevas tecnologías y tendencias del sector.",
+    "value3": "Integridad",
+    "value3Desc": "Transparencia y honestidad en todas nuestras relaciones comerciales.",
+    "value4": "Servicio",
+    "value4Desc": "La satisfacción del cliente es nuestra prioridad absoluta.",
+    "statsTitle": "PRO PANEL en Cifras",
+    "stat1": "500+ Proyectos",
+    "stat2": "10+ Años",
+    "stat3": "50+ Ciudades",
+    "stat4": "200+ Clientes",
+    "teamTitle": "Nuestro Equipo",
+    "teamSubtitle": "Profesionales apasionados al servicio de su imagen.",
+    "equipTitle": "Nuestro Equipamiento",
+    "equipSubtitle": "Un taller moderno equipado con las últimas tecnologías."
+  },
+  "contact": {
+    "title": "Contáctenos",
+    "subtitle": "Nuestro equipo está disponible de lunes a sábado, de 8:30 a 18:30.",
+    "formTitle": "Envíenos un mensaje",
+    "name": "Nombre completo",
+    "namePlaceholder": "Su nombre",
+    "phone": "Teléfono",
+    "phonePlaceholder": "+212 ...",
+    "email": "Email",
+    "emailPlaceholder": "su@email.com",
+    "message": "Mensaje",
+    "messagePlaceholder": "Describa su proyecto o haga su pregunta...",
+    "send": "Enviar mensaje",
+    "sending": "Enviando...",
+    "success": "¡Mensaje enviado con éxito! Le responderemos en 24 horas.",
+    "whatsapp": "Chatear en WhatsApp",
+    "call": "Llamar Ahora",
+    "address": "Dirección",
+    "addressValue": "Tánger, Marruecos",
+    "emailLabel": "Email",
+    "phoneLabel": "Teléfono",
+    "hoursLabel": "Horario",
+    "hoursValue": "Lun – Sáb: 8:30 – 18:30"
+  },
+  "quote": {
+    "title": "Solicitar Presupuesto",
+    "subtitle": "Rellene este formulario y reciba una respuesta personalizada en 24 horas laborables.",
+    "service": "Tipo de servicio",
+    "servicePlaceholder": "Seleccione un servicio",
+    "dimensions": "Dimensiones aproximadas",
+    "dimensionsPlaceholder": "Ej: 2m x 1m o superficie en m²",
+    "location": "Ciudad / Ubicación",
+    "locationPlaceholder": "Ej: Tánger, Casablanca...",
+    "files": "Archivos (logo, planos, fotos)",
+    "filesHelp": "PDF, JPG, PNG, AI, EPS – máx 10 MB",
+    "budget": "Presupuesto aproximado (opcional)",
+    "budgetPlaceholder": "Ej: 5.000 – 10.000 MAD",
+    "details": "Detalles adicionales",
+    "detailsPlaceholder": "Especifique sus necesidades, restricciones técnicas, plazos deseados...",
+    "submit": "Enviar Solicitud de Presupuesto",
+    "submitting": "Enviando...",
+    "success": "¡Su solicitud ha sido enviada! Nuestro equipo le contactará en 24 horas.",
+    "note": "Presupuesto gratuito y sin compromiso",
+    "services": {
+      "signaletique": "Señalización",
+      "logo3d": "Logo 3D",
+      "logoInox": "Logo Inox",
+      "totem": "Tótem Publicitario",
+      "facade": "Revestimiento de Fachada",
+      "palissade": "Valla de Obra",
+      "impression": "Impresión Gran Formato",
+      "menuiserie": "Carpintería de Aluminio",
+      "maintenance": "Mantenimiento",
+      "other": "Otro"
+    }
+  },
+  "footer": {
+    "description": "Su socio experto en señalización, letreros publicitarios y publicidad profesional en Marruecos.",
+    "services": "Servicios",
+    "company": "Empresa",
+    "contact": "Contacto",
+    "rights": "Todos los derechos reservados.",
+    "privacy": "Política de privacidad",
+    "terms": "Condiciones de uso"
+  },
+  "common": {
+    "loading": "Cargando...",
+    "error": "Se ha producido un error",
+    "backToHome": "Volver al inicio",
+    "readMore": "Leer más",
+    "viewAll": "Ver todo",
+    "contactUs": "Contáctenos",
+    "freeQuote": "Presupuesto Gratuito",
+    "callNow": "Llamar",
+    "whatsapp": "WhatsApp",
+    "materials": "Materiales utilizados",
+    "useCases": "Casos de uso",
+    "gallery": "Galería"
+  },
+  "meta": {
+    "home": {
+      "title": "PRO PANEL – Señalización y Publicidad en Marruecos | Tánger",
+      "description": "PRO PANEL, experto en señalización, logos 3D, tótems publicitarios e impresión gran formato en Marruecos. Solución llave en mano. Presupuesto gratuito."
+    },
+    "services": {
+      "title": "Nuestros Servicios – Señalización y Publicidad | PRO PANEL Marruecos",
+      "description": "Descubra todos nuestros servicios: señalización, logo 3D, logo inox, tótem publicitario, revestimiento de fachada e impresión gran formato en Marruecos."
+    },
+    "portfolio": {
+      "title": "Portfolio y Realizaciones – PRO PANEL Marruecos",
+      "description": "Descubra nuestras realizaciones en señalización, letreros y publicidad exterior en todo Marruecos."
+    },
+    "about": {
+      "title": "Sobre PRO PANEL – Experto en Señalización en Marruecos",
+      "description": "Descubra la historia, valores y equipo de PRO PANEL, su socio experto en señalización en Marruecos."
+    },
+    "contact": {
+      "title": "Contacte PRO PANEL – Presupuestos Señalización Marruecos",
+      "description": "Contacte PRO PANEL para todas sus necesidades de señalización y publicidad exterior en Marruecos."
+    },
+    "quote": {
+      "title": "Solicitar Presupuesto – Señalización y Letreros | PRO PANEL",
+      "description": "Solicite un presupuesto gratuito para su proyecto de señalización, logo 3D o impresión gran formato en Marruecos."
+    }
+  }
+}

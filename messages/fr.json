@@ -1,0 +1,281 @@
+{
+  "nav": {
+    "home": "Accueil",
+    "services": "Services",
+    "portfolio": "Portfolio",
+    "about": "À Propos",
+    "contact": "Contact",
+    "quote": "Demander un Devis",
+    "allServices": "Tous les services"
+  },
+  "hero": {
+    "badge": "Expert en Signalétique au Maroc",
+    "title": "Votre Partenaire en",
+    "titleAccent": "Signalétique & Affichage",
+    "titleEnd": "Professionnel",
+    "subtitle": "Fabrication sur mesure, installation professionnelle et maintenance partout au Maroc. De la conception à la pose, PRO PANEL vous offre une solution clé en main.",
+    "cta": "Demander un Devis Gratuit",
+    "ctaSecondary": "Voir nos Réalisations",
+    "stat1Value": "500+",
+    "stat1Label": "Projets Réalisés",
+    "stat2Value": "10+",
+    "stat2Label": "Années d'Expérience",
+    "stat3Value": "50+",
+    "stat3Label": "Villes au Maroc"
+  },
+  "services": {
+    "title": "Nos Services",
+    "subtitle": "Une gamme complète de solutions en signalétique et affichage publicitaire pour valoriser votre image de marque.",
+    "learnMore": "En savoir plus",
+    "signaletique": {
+      "name": "Signalétique",
+      "short": "Signalétique professionnelle intérieure et extérieure pour guider et informer.",
+      "description": "Conception et fabrication de systèmes de signalétique professionnels, adaptés à vos besoins spécifiques. Intérieur comme extérieur, nous créons des solutions durables et esthétiques.",
+      "materials": ["Aluminium", "Acier inox", "Dibond", "Plexiglas", "PVC expansé"],
+      "useCases": ["Centres commerciaux", "Bureaux d'entreprise", "Établissements de santé", "Hôtels", "Aéroports", "Écoles"]
+    },
+    "logo3d": {
+      "name": "Logo 3D",
+      "short": "Lettres et logos en relief pour une identité visuelle percutante.",
+      "description": "Fabriquez un impact visuel durable avec nos logos et lettres en volume 3D. Fabriqués en matériaux premium, ils subliment l'entrée de votre entreprise.",
+      "materials": ["Aluminium brossé", "Plexiglas illuminé", "PVC expansé", "Mousse haute densité", "Polystyrène"],
+      "useCases": ["Façades de boutiques", "Réceptions d'entreprise", "Hôtels", "Showrooms", "Cliniques"]
+    },
+    "logoInox": {
+      "name": "Logo Inox",
+      "short": "Lettres découpées en acier inoxydable, élégantes et durables.",
+      "description": "L'acier inoxydable offre une finition luxueuse et une durabilité exceptionnelle. Idéal pour les enseignes haut de gamme qui veulent marquer les esprits.",
+      "materials": ["Inox 304", "Inox 316 (marine)", "Inox brossé", "Inox poli miroir", "Inox laqué"],
+      "useCases": ["Banques", "Cabinets médicaux", "Entreprises premium", "Hôtels 5 étoiles", "Sièges sociaux"]
+    },
+    "totemPublicitaire": {
+      "name": "Totem Publicitaire",
+      "short": "Totems et pylônes publicitaires pour une visibilité maximale.",
+      "description": "Les totems publicitaires offrent une visibilité exceptionnelle depuis la route. Conçus pour résister aux intempéries, ils sont la vitrine parfaite de votre activité.",
+      "materials": ["Aluminium extrudé", "Acier galvanisé", "Inox", "Caissons lumineux", "Vinyle haute résistance"],
+      "useCases": ["Centres commerciaux", "Stations-service", "Hôtels", "Résidences", "Zones industrielles", "Franchises"]
+    },
+    "habillage": {
+      "name": "Habillage Façade",
+      "short": "Transformation complète de façades pour un rendu premium.",
+      "description": "Donnez un nouveau souffle à votre façade avec nos solutions d'habillage professionnelles. Bâches tendues, panneaux composites, vinyle adhésif ou bardage aluminium.",
+      "materials": ["Panneaux composites (Dibond)", "Bâches tendues", "Vinyle adhésif", "Bardage aluminium", "OSB peint"],
+      "useCases": ["Boutiques & commerces", "Restaurants", "Hôtels", "Banques", "Showrooms", "Immobilier"]
+    },
+    "palissade": {
+      "name": "Palissade Chantier",
+      "short": "Clôtures et palissades publicitaires pour valoriser vos chantiers.",
+      "description": "Transformez vos chantiers en supports publicitaires. Nos palissades communicantes allient sécurité et communication de marque pendant toute la durée des travaux.",
+      "materials": ["Panneaux PVC", "Palissades bois", "Grillages avec bâches", "Panneaux métalliques", "Impression UV"],
+      "useCases": ["Chantiers immobiliers", "Rénovations commerciales", "Travaux publics", "Événements", "Promoteurs immobiliers"]
+    },
+    "impression": {
+      "name": "Impression Grand Format",
+      "short": "Impression numérique haute résolution sur tous supports.",
+      "description": "Notre équipement d'impression grand format de dernière génération garantit des couleurs vibrantes et une résolution parfaite sur tous supports.",
+      "materials": ["Bâches PVC 510g", "Vinyl adhésif", "Toile canvas", "Papier photo", "Tissu backlit", "Polypropylène"],
+      "useCases": ["Publicité extérieure", "Stands d'exposition", "Décoration intérieure", "Événementiel", "PLV", "Banderoles"]
+    },
+    "menuiserie": {
+      "name": "Menuiserie Aluminium",
+      "short": "Structures et cadrages aluminium sur mesure pour vos enseignes.",
+      "description": "Fabrication et pose de structures aluminium sur mesure pour enseignes, vitrines, marquises et façades. Finition impeccable et durabilité garantie.",
+      "materials": ["Profilés aluminium anodisé", "Aluminium laqué", "Verre trempé", "Panneaux sandwichs", "Joints d'étanchéité"],
+      "useCases": ["Vitrines commerciales", "Marquises", "Cloisons de bureau", "Façades légères", "Caissons lumineux"]
+    },
+    "maintenance": {
+      "name": "Maintenance",
+      "short": "Entretien et maintenance de vos enseignes et dispositifs lumineux.",
+      "description": "Prolongez la durée de vie de vos installations avec nos services de maintenance préventive et curative. Intervention rapide partout au Maroc.",
+      "materials": ["LED haute qualité", "Transformateurs", "Câblage électrique", "Peintures industrielles", "Fixations inox"],
+      "useCases": ["Enseignes lumineuses", "Totems", "Panneaux extérieurs", "Signalétique intérieure", "Façades habillées"]
+    }
+  },
+  "whyUs": {
+    "title": "Pourquoi Choisir PRO PANEL ?",
+    "subtitle": "Leader de la signalétique au Maroc, nous combinons expertise technique et créativité pour des résultats exceptionnels.",
+    "reason1Title": "Expertise Certifiée",
+    "reason1Desc": "Plus de 10 ans d'expérience dans la signalétique et l'affichage publicitaire au Maroc. Notre équipe maîtrise les dernières technologies.",
+    "reason2Title": "Matériaux Premium",
+    "reason2Desc": "Nous utilisons exclusivement des matériaux de haute qualité – aluminium, inox, dibond – pour garantir durabilité et esthétique.",
+    "reason3Title": "Solution Clé en Main",
+    "reason3Desc": "De la conception à la pose, nous gérons l'intégralité de votre projet : étude, fabrication, installation et maintenance.",
+    "reason4Title": "Délais Respectés",
+    "reason4Desc": "Nous nous engageons sur des délais précis et les respectons. Votre activité ne peut pas attendre, nous le savons.",
+    "reason5Title": "Couverture Nationale",
+    "reason5Desc": "Notre équipe intervient dans toutes les villes du Maroc. Tanger, Casablanca, Rabat, Marrakech et bien plus.",
+    "reason6Title": "Support Après-vente",
+    "reason6Desc": "Notre relation ne s'arrête pas à la pose. Nous assurons maintenance, réparation et mises à jour de vos installations."
+  },
+  "process": {
+    "title": "Notre Processus de Travail",
+    "subtitle": "Une approche structurée pour des résultats garantis, du premier contact à la livraison finale.",
+    "step1Title": "Consultation & Devis",
+    "step1Desc": "Analyse de vos besoins, visite de site si nécessaire, et proposition commerciale détaillée sous 48h.",
+    "step2Title": "Conception & Design",
+    "step2Desc": "Nos graphistes créent des maquettes 3D et des visuels HD pour valider l'esthétique avant fabrication.",
+    "step3Title": "Fabrication",
+    "step3Desc": "Production dans notre atelier équipé de machines à la pointe de la technologie avec contrôle qualité rigoureux.",
+    "step4Title": "Installation",
+    "step4Desc": "Pose professionnelle par notre équipe certifiée, dans les délais convenus, avec nettoyage du chantier.",
+    "step5Title": "Livraison & Suivi",
+    "step5Desc": "Réception avec vous, documentation technique fournie et suivi post-installation pour votre tranquillité d'esprit."
+  },
+  "portfolio": {
+    "title": "Nos Réalisations",
+    "subtitle": "Découvrez quelques-uns de nos projets réalisés pour des clients à travers tout le Maroc.",
+    "filter": {
+      "all": "Tous",
+      "signaletique": "Signalétique",
+      "facade": "Façade",
+      "logo": "Logo",
+      "totem": "Totem",
+      "impression": "Impression"
+    },
+    "viewAll": "Voir Toutes les Réalisations",
+    "client": "Client",
+    "location": "Localisation",
+    "year": "Année"
+  },
+  "clients": {
+    "title": "Ils Nous Font Confiance",
+    "subtitle": "Des entreprises de tous secteurs nous font confiance pour leurs besoins en signalétique."
+  },
+  "cta": {
+    "title": "Prêt à Transformer Votre Image ?",
+    "subtitle": "Obtenez un devis gratuit sous 24h. Notre équipe est disponible pour étudier votre projet et vous proposer la meilleure solution.",
+    "button": "Demander un Devis Gratuit",
+    "buttonSecondary": "Nous Appeler",
+    "or": "ou"
+  },
+  "about": {
+    "title": "À Propos de PRO PANEL",
+    "subtitle": "Votre partenaire de confiance en signalétique et affichage professionnel depuis plus de 10 ans.",
+    "storyTitle": "Notre Histoire",
+    "storyText": "Fondée à Tanger, PRO PANEL est née de la passion pour la communication visuelle et de la conviction que chaque entreprise mérite une identité visuelle forte. Depuis nos débuts, nous n'avons cessé de grandir, d'innover et d'élargir notre gamme de services pour répondre aux besoins croissants du marché marocain.",
+    "storyText2": "Aujourd'hui, nous sommes fiers d'être l'un des acteurs référents de la signalétique au Maroc, avec une équipe dédiée, un atelier moderne et une présence nationale.",
+    "valuesTitle": "Nos Valeurs",
+    "value1": "Excellence",
+    "value1Desc": "Nous visons la perfection dans chaque projet, sans compromis sur la qualité.",
+    "value2": "Innovation",
+    "value2Desc": "Nous intégrons continuellement les nouvelles technologies et tendances du secteur.",
+    "value3": "Intégrité",
+    "value3Desc": "Transparence et honnêteté dans toutes nos relations commerciales.",
+    "value4": "Service",
+    "value4Desc": "La satisfaction client est notre priorité absolue, avant, pendant et après le projet.",
+    "statsTitle": "PRO PANEL en Chiffres",
+    "stat1": "500+ Projets",
+    "stat2": "10+ Ans",
+    "stat3": "50+ Villes",
+    "stat4": "200+ Clients",
+    "teamTitle": "Notre Équipe",
+    "teamSubtitle": "Des professionnels passionnés au service de votre image.",
+    "equipTitle": "Notre Équipement",
+    "equipSubtitle": "Un atelier moderne équipé des dernières technologies."
+  },
+  "contact": {
+    "title": "Contactez-Nous",
+    "subtitle": "Notre équipe est disponible du lundi au samedi, de 8h30 à 18h30.",
+    "formTitle": "Envoyez-nous un message",
+    "name": "Nom complet",
+    "namePlaceholder": "Votre nom",
+    "phone": "Téléphone",
+    "phonePlaceholder": "+212 ...",
+    "email": "Email",
+    "emailPlaceholder": "votre@email.com",
+    "message": "Message",
+    "messagePlaceholder": "Décrivez votre projet ou posez votre question...",
+    "send": "Envoyer le message",
+    "sending": "Envoi en cours...",
+    "success": "Message envoyé avec succès ! Nous vous répondrons sous 24h.",
+    "whatsapp": "Discuter sur WhatsApp",
+    "call": "Appeler Maintenant",
+    "address": "Adresse",
+    "addressValue": "Tanger, Maroc",
+    "emailLabel": "Email",
+    "phoneLabel": "Téléphone",
+    "hoursLabel": "Horaires",
+    "hoursValue": "Lun – Sam : 8h30 – 18h30"
+  },
+  "quote": {
+    "title": "Demandez un Devis",
+    "subtitle": "Remplissez ce formulaire et recevez une réponse personnalisée sous 24h ouvrées.",
+    "service": "Type de service",
+    "servicePlaceholder": "Sélectionnez un service",
+    "dimensions": "Dimensions approximatives",
+    "dimensionsPlaceholder": "Ex: 2m x 1m ou superficie en m²",
+    "location": "Ville / Localisation",
+    "locationPlaceholder": "Ex: Tanger, Casablanca...",
+    "files": "Fichiers (logo, plans, photos)",
+    "filesHelp": "PDF, JPG, PNG, AI, EPS – max 10 Mo",
+    "budget": "Budget approximatif (optionnel)",
+    "budgetPlaceholder": "Ex: 5 000 – 10 000 MAD",
+    "details": "Détails supplémentaires",
+    "detailsPlaceholder": "Précisez vos besoins, contraintes techniques, délais souhaités...",
+    "submit": "Envoyer ma Demande de Devis",
+    "submitting": "Envoi en cours...",
+    "success": "Votre demande a été envoyée ! Notre équipe vous contactera dans les 24h.",
+    "note": "Devis gratuit et sans engagement",
+    "services": {
+      "signaletique": "Signalétique",
+      "logo3d": "Logo 3D",
+      "logoInox": "Logo Inox",
+      "totem": "Totem Publicitaire",
+      "facade": "Habillage Façade",
+      "palissade": "Palissade Chantier",
+      "impression": "Impression Grand Format",
+      "menuiserie": "Menuiserie Aluminium",
+      "maintenance": "Maintenance",
+      "other": "Autre"
+    }
+  },
+  "footer": {
+    "description": "Votre partenaire expert en signalétique, enseignes publicitaires et affichage professionnel au Maroc.",
+    "services": "Services",
+    "company": "Entreprise",
+    "contact": "Contact",
+    "rights": "Tous droits réservés.",
+    "privacy": "Politique de confidentialité",
+    "terms": "Conditions d'utilisation"
+  },
+  "common": {
+    "loading": "Chargement...",
+    "error": "Une erreur s'est produite",
+    "backToHome": "Retour à l'accueil",
+    "readMore": "Lire la suite",
+    "viewAll": "Voir tout",
+    "contactUs": "Nous contacter",
+    "freeQuote": "Devis Gratuit",
+    "callNow": "Appeler",
+    "whatsapp": "WhatsApp",
+    "materials": "Matériaux utilisés",
+    "useCases": "Cas d'utilisation",
+    "gallery": "Galerie"
+  },
+  "meta": {
+    "home": {
+      "title": "PRO PANEL – Signalétique & Enseignes Publicitaires au Maroc | Tanger",
+      "description": "PRO PANEL, expert en signalétique, enseignes, logos 3D, totems publicitaires et impression grand format au Maroc. Solution clé en main, de la conception à la pose. Devis gratuit."
+    },
+    "services": {
+      "title": "Nos Services – Signalétique & Affichage | PRO PANEL Maroc",
+      "description": "Découvrez tous nos services : signalétique, logo 3D, logo inox, totem publicitaire, habillage façade, impression grand format et maintenance au Maroc."
+    },
+    "portfolio": {
+      "title": "Portfolio & Réalisations – PRO PANEL Maroc",
+      "description": "Découvrez nos réalisations en signalétique, enseignes et affichage publicitaire à travers tout le Maroc."
+    },
+    "about": {
+      "title": "À Propos de PRO PANEL – Expert Signalétique au Maroc",
+      "description": "Découvrez l'histoire, les valeurs et l'équipe de PRO PANEL, votre partenaire expert en signalétique au Maroc depuis plus de 10 ans."
+    },
+    "contact": {
+      "title": "Contactez PRO PANEL – Devis Signalétique Maroc",
+      "description": "Contactez PRO PANEL pour tous vos besoins en signalétique et affichage publicitaire au Maroc. Devis gratuit sous 24h."
+    },
+    "quote": {
+      "title": "Demande de Devis – Signalétique & Enseignes | PRO PANEL",
+      "description": "Demandez un devis gratuit pour votre projet de signalétique, enseigne, logo 3D ou impression grand format au Maroc."
+    }
+  }
+}

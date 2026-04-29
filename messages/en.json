@@ -1,0 +1,281 @@
+{
+  "nav": {
+    "home": "Home",
+    "services": "Services",
+    "portfolio": "Portfolio",
+    "about": "About",
+    "contact": "Contact",
+    "quote": "Get a Quote",
+    "allServices": "All services"
+  },
+  "hero": {
+    "badge": "Morocco's Signage Expert",
+    "title": "Your Partner in",
+    "titleAccent": "Professional Signage",
+    "titleEnd": "& Advertising",
+    "subtitle": "Custom fabrication, professional installation and maintenance across Morocco. From design to installation, PRO PANEL offers a complete turnkey solution.",
+    "cta": "Get a Free Quote",
+    "ctaSecondary": "View Our Projects",
+    "stat1Value": "500+",
+    "stat1Label": "Projects Completed",
+    "stat2Value": "10+",
+    "stat2Label": "Years of Experience",
+    "stat3Value": "50+",
+    "stat3Label": "Cities in Morocco"
+  },
+  "services": {
+    "title": "Our Services",
+    "subtitle": "A complete range of signage and advertising solutions to enhance your brand image.",
+    "learnMore": "Learn more",
+    "signaletique": {
+      "name": "Signage",
+      "short": "Professional indoor and outdoor signage to guide and inform.",
+      "description": "Design and manufacture of professional signage systems tailored to your specific needs. Indoor and outdoor, we create durable and aesthetic solutions.",
+      "materials": ["Aluminium", "Stainless steel", "Dibond", "Plexiglass", "Expanded PVC"],
+      "useCases": ["Shopping centers", "Corporate offices", "Healthcare facilities", "Hotels", "Airports", "Schools"]
+    },
+    "logo3d": {
+      "name": "3D Logo",
+      "short": "Relief letters and logos for a striking visual identity.",
+      "description": "Create a lasting visual impact with our 3D volume logos and letters. Made from premium materials, they enhance your company entrance.",
+      "materials": ["Brushed aluminium", "Illuminated plexiglass", "Expanded PVC", "High-density foam", "Polystyrene"],
+      "useCases": ["Shop facades", "Corporate receptions", "Hotels", "Showrooms", "Clinics"]
+    },
+    "logoInox": {
+      "name": "Stainless Steel Logo",
+      "short": "Cut stainless steel letters, elegant and durable.",
+      "description": "Stainless steel offers a luxurious finish and exceptional durability. Ideal for premium signs that make a lasting impression.",
+      "materials": ["Stainless 304", "Stainless 316 (marine)", "Brushed stainless", "Mirror polished", "Lacquered stainless"],
+      "useCases": ["Banks", "Medical offices", "Premium companies", "5-star hotels", "Head offices"]
+    },
+    "totemPublicitaire": {
+      "name": "Advertising Totem",
+      "short": "Advertising totems and pylons for maximum visibility.",
+      "description": "Advertising totems offer exceptional roadside visibility. Designed to withstand harsh weather, they are the perfect showcase for your business.",
+      "materials": ["Extruded aluminium", "Galvanized steel", "Stainless steel", "Light boxes", "High-resistance vinyl"],
+      "useCases": ["Shopping centers", "Gas stations", "Hotels", "Residential complexes", "Industrial zones", "Franchises"]
+    },
+    "habillage": {
+      "name": "Facade Cladding",
+      "short": "Complete facade transformation for a premium finish.",
+      "description": "Give a new look to your facade with our professional cladding solutions. Tensioned fabric, composite panels, adhesive vinyl or aluminium cladding.",
+      "materials": ["Composite panels (Dibond)", "Tensioned fabric", "Adhesive vinyl", "Aluminium cladding", "Painted OSB"],
+      "useCases": ["Shops & retail", "Restaurants", "Hotels", "Banks", "Showrooms", "Real estate"]
+    },
+    "palissade": {
+      "name": "Construction Hoarding",
+      "short": "Advertising hoardings and fences to showcase your construction sites.",
+      "description": "Turn your construction sites into advertising supports. Our communicating hoardings combine security and brand communication throughout the works.",
+      "materials": ["PVC panels", "Wooden hoardings", "Mesh with fabric", "Metal panels", "UV printing"],
+      "useCases": ["Real estate sites", "Commercial renovations", "Public works", "Events", "Property developers"]
+    },
+    "impression": {
+      "name": "Large Format Printing",
+      "short": "High-resolution digital printing on all media.",
+      "description": "Our latest-generation large format printing equipment guarantees vibrant colors and perfect resolution on all media.",
+      "materials": ["PVC fabric 510g", "Adhesive vinyl", "Canvas", "Photo paper", "Backlit fabric", "Polypropylene"],
+      "useCases": ["Outdoor advertising", "Exhibition stands", "Interior decoration", "Events", "POS", "Banners"]
+    },
+    "menuiserie": {
+      "name": "Aluminium Joinery",
+      "short": "Custom aluminium structures and frames for your signs.",
+      "description": "Manufacture and installation of custom aluminium structures for signs, shop fronts, canopies and facades. Impeccable finish and guaranteed durability.",
+      "materials": ["Anodised aluminium profiles", "Lacquered aluminium", "Tempered glass", "Sandwich panels", "Sealing joints"],
+      "useCases": ["Commercial shop fronts", "Canopies", "Office partitions", "Light facades", "Light boxes"]
+    },
+    "maintenance": {
+      "name": "Maintenance",
+      "short": "Maintenance and repair of your signs and lighting devices.",
+      "description": "Extend the lifespan of your installations with our preventive and corrective maintenance services. Fast response across Morocco.",
+      "materials": ["High-quality LED", "Transformers", "Electrical wiring", "Industrial paints", "Stainless fixings"],
+      "useCases": ["Illuminated signs", "Totems", "Outdoor panels", "Indoor signage", "Clad facades"]
+    }
+  },
+  "whyUs": {
+    "title": "Why Choose PRO PANEL?",
+    "subtitle": "Morocco's signage leader, combining technical expertise and creativity for exceptional results.",
+    "reason1Title": "Certified Expertise",
+    "reason1Desc": "Over 10 years of experience in signage and outdoor advertising in Morocco. Our team masters the latest technologies.",
+    "reason2Title": "Premium Materials",
+    "reason2Desc": "We exclusively use high-quality materials – aluminium, stainless steel, dibond – to guarantee durability and aesthetics.",
+    "reason3Title": "Turnkey Solution",
+    "reason3Desc": "From design to installation, we manage your entire project: study, fabrication, installation and maintenance.",
+    "reason4Title": "Deadlines Respected",
+    "reason4Desc": "We commit to precise deadlines and meet them. Your business cannot wait, and we know that.",
+    "reason5Title": "National Coverage",
+    "reason5Desc": "Our team operates in all cities of Morocco. Tangier, Casablanca, Rabat, Marrakech and many more.",
+    "reason6Title": "After-sales Support",
+    "reason6Desc": "Our relationship does not end at installation. We provide maintenance, repair and updates for your installations."
+  },
+  "process": {
+    "title": "Our Work Process",
+    "subtitle": "A structured approach for guaranteed results, from first contact to final delivery.",
+    "step1Title": "Consultation & Quote",
+    "step1Desc": "Analysis of your needs, site visit if necessary, and detailed commercial proposal within 48 hours.",
+    "step2Title": "Design",
+    "step2Desc": "Our graphic designers create 3D mockups and HD visuals to validate aesthetics before manufacturing.",
+    "step3Title": "Manufacturing",
+    "step3Desc": "Production in our workshop equipped with cutting-edge machines with rigorous quality control.",
+    "step4Title": "Installation",
+    "step4Desc": "Professional installation by our certified team, within agreed deadlines, with site cleanup.",
+    "step5Title": "Delivery & Follow-up",
+    "step5Desc": "Reception with you, technical documentation provided and post-installation follow-up for your peace of mind."
+  },
+  "portfolio": {
+    "title": "Our Projects",
+    "subtitle": "Discover some of our projects completed for clients across Morocco.",
+    "filter": {
+      "all": "All",
+      "signaletique": "Signage",
+      "facade": "Facade",
+      "logo": "Logo",
+      "totem": "Totem",
+      "impression": "Printing"
+    },
+    "viewAll": "View All Projects",
+    "client": "Client",
+    "location": "Location",
+    "year": "Year"
+  },
+  "clients": {
+    "title": "They Trust Us",
+    "subtitle": "Companies from all sectors trust us for their signage needs."
+  },
+  "cta": {
+    "title": "Ready to Transform Your Image?",
+    "subtitle": "Get a free quote within 24 hours. Our team is available to study your project and propose the best solution.",
+    "button": "Get a Free Quote",
+    "buttonSecondary": "Call Us",
+    "or": "or"
+  },
+  "about": {
+    "title": "About PRO PANEL",
+    "subtitle": "Your trusted partner in professional signage and advertising for over 10 years.",
+    "storyTitle": "Our Story",
+    "storyText": "Founded in Tangier, PRO PANEL was born from a passion for visual communication and the conviction that every company deserves a strong visual identity. Since our beginnings, we have never stopped growing, innovating and expanding our range of services.",
+    "storyText2": "Today, we are proud to be one of Morocco's leading signage companies, with a dedicated team, a modern workshop and a national presence.",
+    "valuesTitle": "Our Values",
+    "value1": "Excellence",
+    "value1Desc": "We aim for perfection in every project, with no compromise on quality.",
+    "value2": "Innovation",
+    "value2Desc": "We continuously integrate new technologies and industry trends.",
+    "value3": "Integrity",
+    "value3Desc": "Transparency and honesty in all our business relationships.",
+    "value4": "Service",
+    "value4Desc": "Customer satisfaction is our absolute priority, before, during and after the project.",
+    "statsTitle": "PRO PANEL in Numbers",
+    "stat1": "500+ Projects",
+    "stat2": "10+ Years",
+    "stat3": "50+ Cities",
+    "stat4": "200+ Clients",
+    "teamTitle": "Our Team",
+    "teamSubtitle": "Passionate professionals serving your image.",
+    "equipTitle": "Our Equipment",
+    "equipSubtitle": "A modern workshop equipped with the latest technologies."
+  },
+  "contact": {
+    "title": "Contact Us",
+    "subtitle": "Our team is available Monday to Saturday, 8:30 AM to 6:30 PM.",
+    "formTitle": "Send us a message",
+    "name": "Full name",
+    "namePlaceholder": "Your name",
+    "phone": "Phone",
+    "phonePlaceholder": "+212 ...",
+    "email": "Email",
+    "emailPlaceholder": "your@email.com",
+    "message": "Message",
+    "messagePlaceholder": "Describe your project or ask your question...",
+    "send": "Send message",
+    "sending": "Sending...",
+    "success": "Message sent successfully! We will reply within 24 hours.",
+    "whatsapp": "Chat on WhatsApp",
+    "call": "Call Now",
+    "address": "Address",
+    "addressValue": "Tangier, Morocco",
+    "emailLabel": "Email",
+    "phoneLabel": "Phone",
+    "hoursLabel": "Opening Hours",
+    "hoursValue": "Mon – Sat: 8:30 AM – 6:30 PM"
+  },
+  "quote": {
+    "title": "Request a Quote",
+    "subtitle": "Fill out this form and receive a personalised response within 24 working hours.",
+    "service": "Service type",
+    "servicePlaceholder": "Select a service",
+    "dimensions": "Approximate dimensions",
+    "dimensionsPlaceholder": "E.g. 2m x 1m or area in m²",
+    "location": "City / Location",
+    "locationPlaceholder": "E.g. Tangier, Casablanca...",
+    "files": "Files (logo, plans, photos)",
+    "filesHelp": "PDF, JPG, PNG, AI, EPS – max 10 MB",
+    "budget": "Approximate budget (optional)",
+    "budgetPlaceholder": "E.g. 5,000 – 10,000 MAD",
+    "details": "Additional details",
+    "detailsPlaceholder": "Specify your needs, technical constraints, desired deadlines...",
+    "submit": "Submit Quote Request",
+    "submitting": "Sending...",
+    "success": "Your request has been sent! Our team will contact you within 24 hours.",
+    "note": "Free and non-binding quote",
+    "services": {
+      "signaletique": "Signage",
+      "logo3d": "3D Logo",
+      "logoInox": "Stainless Steel Logo",
+      "totem": "Advertising Totem",
+      "facade": "Facade Cladding",
+      "palissade": "Construction Hoarding",
+      "impression": "Large Format Printing",
+      "menuiserie": "Aluminium Joinery",
+      "maintenance": "Maintenance",
+      "other": "Other"
+    }
+  },
+  "footer": {
+    "description": "Your expert partner in signage, advertising signs and professional displays in Morocco.",
+    "services": "Services",
+    "company": "Company",
+    "contact": "Contact",
+    "rights": "All rights reserved.",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Use"
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "An error occurred",
+    "backToHome": "Back to home",
+    "readMore": "Read more",
+    "viewAll": "View all",
+    "contactUs": "Contact us",
+    "freeQuote": "Free Quote",
+    "callNow": "Call",
+    "whatsapp": "WhatsApp",
+    "materials": "Materials used",
+    "useCases": "Use cases",
+    "gallery": "Gallery"
+  },
+  "meta": {
+    "home": {
+      "title": "PRO PANEL – Signage & Advertising in Morocco | Tangier",
+      "description": "PRO PANEL, expert in signage, 3D logos, advertising totems and large format printing in Morocco. Complete turnkey solution, from design to installation. Free quote."
+    },
+    "services": {
+      "title": "Our Services – Signage & Advertising | PRO PANEL Morocco",
+      "description": "Discover all our services: signage, 3D logo, stainless logo, advertising totem, facade cladding, large format printing and maintenance in Morocco."
+    },
+    "portfolio": {
+      "title": "Portfolio & Projects – PRO PANEL Morocco",
+      "description": "Discover our signage, signs and outdoor advertising projects across Morocco."
+    },
+    "about": {
+      "title": "About PRO PANEL – Morocco's Signage Expert",
+      "description": "Discover the story, values and team of PRO PANEL, your expert partner in signage in Morocco for over 10 years."
+    },
+    "contact": {
+      "title": "Contact PRO PANEL – Signage Quotes Morocco",
+      "description": "Contact PRO PANEL for all your signage and outdoor advertising needs in Morocco. Free quote within 24 hours."
+    },
+    "quote": {
+      "title": "Request a Quote – Signage & Signs | PRO PANEL",
+      "description": "Request a free quote for your signage, 3D logo or large format printing project in Morocco."
+    }
+  }
+}
