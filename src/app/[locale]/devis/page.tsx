@@ -3,10 +3,12 @@
 import { useState } from "react";
 import { motion } from "framer-motion";
 import { useTranslations } from "next-intl";
-import { CheckCircle, Upload, Send } from "lucide-react";
+import { CheckCircle, Upload, Send, Phone, Mail, MessageCircle } from "lucide-react";
+import { SITE_EMAIL, SITE_PHONE_LOCAL_DISPLAY, SITE_PHONE_TEL_HREF, SITE_PHONE_WA_ME } from "@/lib/site-contact";
 
 export default function DevisPage() {
   const t = useTranslations("quote");
+  const tc = useTranslations("common");
 
   const [form, setForm] = useState({
     service: "",
@@ -202,6 +204,40 @@ export default function DevisPage() {
               </p>
             </motion.form>
           )}
+
+          <motion.div
+            initial={{ opacity: 0 }}
+            animate={{ opacity: 1 }}
+            transition={{ duration: 0.45, delay: 0.15 }}
+            className="mt-14 pt-10 border-t border-neutral-100 text-center space-y-5"
+          >
+            <p className="text-sm font-semibold text-neutral-700">{t("directContact")}</p>
+            <div className="flex flex-wrap items-center justify-center gap-3">
+              <a
+                href={`mailto:${SITE_EMAIL}`}
+                className="inline-flex items-center gap-2 px-4 py-2.5 rounded-xl border border-neutral-200 bg-neutral-50 text-sm font-medium text-neutral-800 hover:border-primary hover:bg-white transition-colors"
+              >
+                <Mail className="w-4 h-4 text-primary shrink-0" />
+                {SITE_EMAIL}
+              </a>
+              <a
+                href={SITE_PHONE_TEL_HREF}
+                className="inline-flex items-center gap-2 px-4 py-2.5 rounded-xl border border-neutral-200 bg-neutral-50 text-sm font-medium text-neutral-800 hover:border-primary hover:bg-white transition-colors"
+              >
+                <Phone className="w-4 h-4 text-primary shrink-0" />
+                {SITE_PHONE_LOCAL_DISPLAY}
+              </a>
+              <a
+                href={`https://wa.me/${SITE_PHONE_WA_ME}?text=${encodeURIComponent("Bonjour PROPANEL, je souhaite obtenir un devis.")}`}
+                target="_blank"
+                rel="noopener noreferrer"
+                className="inline-flex items-center gap-2 px-4 py-2.5 rounded-xl bg-[#25D366] text-white text-sm font-semibold hover:opacity-95 transition-opacity"
+              >
+                <MessageCircle className="w-4 h-4 fill-white stroke-none shrink-0" />
+                {tc("whatsapp")}
+              </a>
+            </div>
+          </motion.div>
         </div>
       </section>
     </div>

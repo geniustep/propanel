@@ -4,6 +4,7 @@ import { motion } from "framer-motion";
 import { Link } from "@/i18n/navigation";
 import { useTranslations } from "next-intl";
 import { SERVICES_CONFIG, type ServiceSlug } from "@/lib/services";
+import { SITE_PHONE_TEL_HREF } from "@/lib/site-contact";
 import CTAButton from "@/components/ui/CTAButton";
 import { CheckCircle, ArrowRight, Phone } from "lucide-react";
 
@@ -100,7 +101,7 @@ export default function ServicePageClient({
                   Demander un Devis
                 </CTAButton>
                 <a
-                  href="tel:+212600000000"
+                  href={SITE_PHONE_TEL_HREF}
                   className="inline-flex items-center gap-2 px-6 py-3 border-2 border-neutral-200 text-neutral-700 rounded-xl font-semibold text-sm hover:border-primary hover:text-primary transition-all"
                 >
                   <Phone className="w-4 h-4" />

@@ -1,6 +1,7 @@
 import { useTranslations } from "next-intl";
 import { Link } from "@/i18n/navigation";
 import { SERVICE_SLUGS, SERVICES_CONFIG } from "@/lib/services";
+import { SITE_EMAIL, SITE_PHONE_LOCAL_DISPLAY, SITE_PHONE_TEL_HREF } from "@/lib/site-contact";
 import { Phone, Mail, MapPin, Clock } from "lucide-react";
 
 type Props = { locale: string };
@@ -112,20 +113,20 @@ export default function Footer({ locale }: Props) {
               </li>
               <li>
                 <a
-                  href="tel:+212600000000"
+                  href={SITE_PHONE_TEL_HREF}
                   className="flex items-center gap-2.5 text-sm text-neutral-400 hover:text-white transition-colors"
                 >
                   <Phone className="w-4 h-4 text-accent" />
-                  +212 6 00 00 00 00
+                  {SITE_PHONE_LOCAL_DISPLAY}
                 </a>
               </li>
               <li>
                 <a
-                  href="mailto:contact@propanel.ma"
+                  href={`mailto:${SITE_EMAIL}`}
                   className="flex items-center gap-2.5 text-sm text-neutral-400 hover:text-white transition-colors"
                 >
                   <Mail className="w-4 h-4 text-accent" />
-                  contact@propanel.ma
+                  {SITE_EMAIL}
                 </a>
               </li>
               <li className="flex items-start gap-2.5 text-sm text-neutral-400">

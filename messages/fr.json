@@ -188,6 +188,7 @@
     "send": "Envoyer le message",
     "sending": "Envoi en cours...",
     "success": "Message envoyé avec succès ! Nous vous répondrons sous 24h.",
+    "error": "L'envoi a échoué. Réessayez plus tard ou contactez-nous par email.",
     "whatsapp": "Discuter sur WhatsApp",
     "call": "Appeler Maintenant",
     "address": "Adresse",
@@ -216,6 +217,7 @@
     "submitting": "Envoi en cours...",
     "success": "Votre demande a été envoyée ! Notre équipe vous contactera dans les 24h.",
     "note": "Devis gratuit et sans engagement",
+    "directContact": "Ou contactez-nous par email, téléphone ou WhatsApp",
     "services": {
       "signaletique": "Signalétique",
       "logo3d": "Logo 3D",

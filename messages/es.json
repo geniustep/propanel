@@ -188,6 +188,7 @@
     "send": "Enviar mensaje",
     "sending": "Enviando...",
     "success": "¡Mensaje enviado con éxito! Le responderemos en 24 horas.",
+    "error": "No se pudo enviar. Inténtelo más tarde o contáctenos por correo.",
     "whatsapp": "Chatear en WhatsApp",
     "call": "Llamar Ahora",
     "address": "Dirección",
@@ -216,6 +217,7 @@
     "submitting": "Enviando...",
     "success": "¡Su solicitud ha sido enviada! Nuestro equipo le contactará en 24 horas.",
     "note": "Presupuesto gratuito y sin compromiso",
+    "directContact": "O contáctenos por correo, teléfono o WhatsApp",
     "services": {
       "signaletique": "Señalización",
       "logo3d": "Logo 3D",

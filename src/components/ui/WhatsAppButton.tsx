@@ -2,8 +2,7 @@
 
 import { motion } from "framer-motion";
 import { MessageCircle } from "lucide-react";
-
-const WHATSAPP_NUMBER = "212600000000";
+import { SITE_PHONE_WA_ME } from "@/lib/site-contact";
 const WHATSAPP_MESSAGE = encodeURIComponent(
   "Bonjour PROPANEL, je souhaite obtenir un devis pour mon projet."
 );
@@ -11,7 +10,7 @@ const WHATSAPP_MESSAGE = encodeURIComponent(
 export default function WhatsAppButton() {
   return (
     <motion.a
-      href={`https://wa.me/${WHATSAPP_NUMBER}?text=${WHATSAPP_MESSAGE}`}
+      href={`https://wa.me/${SITE_PHONE_WA_ME}?text=${WHATSAPP_MESSAGE}`}
       target="_blank"
       rel="noopener noreferrer"
       className="fixed bottom-6 right-6 z-50 flex items-center gap-2 bg-[#25D366] text-white rounded-full shadow-2xl px-4 py-3 font-semibold text-sm"

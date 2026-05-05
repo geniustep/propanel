@@ -4,6 +4,7 @@ import { motion } from "framer-motion";
 import { useTranslations } from "next-intl";
 import { Link } from "@/i18n/navigation";
 import { ArrowRight, Phone } from "lucide-react";
+import { SITE_PHONE_TEL_HREF } from "@/lib/site-contact";
 
 export default function CTABlock() {
   const t = useTranslations("cta");
@@ -50,7 +51,7 @@ export default function CTABlock() {
 
             <motion.div whileHover={{ scale: 1.03 }} whileTap={{ scale: 0.97 }}>
               <a
-                href="tel:+212600000000"
+                href={SITE_PHONE_TEL_HREF}
                 className="inline-flex items-center gap-2 px-8 py-4 bg-white/10 backdrop-blur-sm text-white border border-white/20 rounded-xl font-bold text-sm hover:bg-white/20 transition-colors"
               >
                 <Phone className="w-4 h-4" />

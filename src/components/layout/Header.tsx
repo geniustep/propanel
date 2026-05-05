@@ -7,6 +7,7 @@ import { SERVICE_SLUGS, SERVICES_CONFIG } from "@/lib/services";
 import LanguageSwitcher from "./LanguageSwitcher";
 import { motion, AnimatePresence } from "framer-motion";
 import { Menu, X, ChevronDown, Phone } from "lucide-react";
+import { SITE_PHONE_LOCAL_DISPLAY, SITE_PHONE_TEL_HREF } from "@/lib/site-contact";
 
 type Props = { locale: string };
 
@@ -119,11 +120,11 @@ export default function Header({ locale }: Props) {
           <div className="hidden lg:flex items-center gap-2">
             <LanguageSwitcher />
             <a
-              href="tel:+212600000000"
+              href={SITE_PHONE_TEL_HREF}
               className="flex items-center gap-1.5 px-3 py-2 text-sm font-medium text-neutral-700 hover:text-primary transition-colors"
             >
               <Phone className="w-4 h-4" />
-              <span className="hidden xl:inline">+212 6 00 00 00 00</span>
+              <span className="hidden xl:inline">{SITE_PHONE_LOCAL_DISPLAY}</span>
             </a>
             <Link
               href="/devis"

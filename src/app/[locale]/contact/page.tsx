@@ -4,28 +4,39 @@ import { useState } from "react";
 import { motion } from "framer-motion";
 import { useTranslations } from "next-intl";
 import { Phone, Mail, MapPin, Clock, MessageCircle, Send } from "lucide-react";
-
-const WHATSAPP_NUMBER = "212600000000";
+import { SITE_EMAIL, SITE_PHONE_LOCAL_DISPLAY, SITE_PHONE_TEL_HREF, SITE_PHONE_WA_ME } from "@/lib/site-contact";
 
 export default function ContactPage() {
   const t = useTranslations("contact");
   const [form, setForm] = useState({ name: "", phone: "", email: "", message: "" });
   const [sending, setSending] = useState(false);
   const [sent, setSent] = useState(false);
+  const [sendError, setSendError] = useState(false);
 
   const handleSubmit = async (e: React.FormEvent) => {
     e.preventDefault();
     setSending(true);
-    await new Promise((r) => setTimeout(r, 1200));
-    setSending(false);
-    setSent(true);
-    setForm({ name: "", phone: "", email: "", message: "" });
+    setSendError(false);
+    try {
+      const res = await fetch("/api/contact", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify(form),
+      });
+      if (!res.ok) throw new Error("failed");
+      setSent(true);
+      setForm({ name: "", phone: "", email: "", message: "" });
+    } catch {
+      setSendError(true);
+    } finally {
+      setSending(false);
+    }
   };
 
   const contacts = [
     { icon: MapPin, label: t("addressLabel"), value: t("addressValue"), href: null },
-    { icon: Phone, label: t("phoneLabel"), value: "+212 6 00 00 00 00", href: "tel:+212600000000" },
-    { icon: Mail, label: t("emailLabel"), value: "contact@propanel.ma", href: "mailto:contact@propanel.ma" },
+    { icon: Phone, label: t("phoneLabel"), value: SITE_PHONE_LOCAL_DISPLAY, href: SITE_PHONE_TEL_HREF },
+    { icon: Mail, label: t("emailLabel"), value: SITE_EMAIL, href: `mailto:${SITE_EMAIL}` },
     { icon: Clock, label: t("hoursLabel"), value: t("hoursValue"), href: null },
   ];
 
@@ -73,6 +84,11 @@ export default function ContactPage() {
                   </motion.div>
                 ) : (
                   <form onSubmit={handleSubmit} className="space-y-5">
+                    {sendError ? (
+                      <div className="rounded-xl border border-red-200 bg-red-50 px-4 py-3 text-sm font-medium text-red-800">
+                        {t("error")}
+                      </div>
+                    ) : null}
                     <div className="grid sm:grid-cols-2 gap-5">
                       <div>
                         <label className="block text-sm font-semibold text-neutral-700 mb-2">
@@ -188,7 +204,7 @@ export default function ContactPage() {
 
               {/* WhatsApp CTA */}
               <motion.a
-                href={`https://wa.me/${WHATSAPP_NUMBER}?text=${encodeURIComponent("Bonjour PROPANEL, je souhaite obtenir un devis.")}`}
+                href={`https://wa.me/${SITE_PHONE_WA_ME}?text=${encodeURIComponent("Bonjour PROPANEL, je souhaite obtenir un devis.")}`}
                 target="_blank"
                 rel="noopener noreferrer"
                 initial={{ opacity: 0, x: 20 }}

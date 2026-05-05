@@ -188,6 +188,7 @@
     "send": "Send message",
     "sending": "Sending...",
     "success": "Message sent successfully! We will reply within 24 hours.",
+    "error": "Sending failed. Please try again later or contact us by email.",
     "whatsapp": "Chat on WhatsApp",
     "call": "Call Now",
     "address": "Address",
@@ -216,6 +217,7 @@
     "submitting": "Sending...",
     "success": "Your request has been sent! Our team will contact you within 24 hours.",
     "note": "Free and non-binding quote",
+    "directContact": "Or reach us by email, phone or WhatsApp",
     "services": {
       "signaletique": "Signage",
       "logo3d": "3D Logo",
