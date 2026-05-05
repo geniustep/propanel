@@ -191,6 +191,7 @@
     "error": "Sending failed. Please try again later or contact us by email.",
     "whatsapp": "Chat on WhatsApp",
     "call": "Call Now",
+    "addressLabel": "Address",
     "address": "Address",
     "addressValue": "Tangier, Morocco",
     "emailLabel": "Email",

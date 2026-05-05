@@ -191,6 +191,7 @@
     "error": "L'envoi a échoué. Réessayez plus tard ou contactez-nous par email.",
     "whatsapp": "Discuter sur WhatsApp",
     "call": "Appeler Maintenant",
+    "addressLabel": "Adresse",
     "address": "Adresse",
     "addressValue": "Tanger, Maroc",
     "emailLabel": "Email",

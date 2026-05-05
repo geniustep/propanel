@@ -191,6 +191,7 @@
     "error": "No se pudo enviar. Inténtelo más tarde o contáctenos por correo.",
     "whatsapp": "Chatear en WhatsApp",
     "call": "Llamar Ahora",
+    "addressLabel": "Dirección",
     "address": "Dirección",
     "addressValue": "Tánger, Marruecos",
     "emailLabel": "Email",

@@ -35,7 +35,8 @@ export async function POST(req: Request) {
 
     return NextResponse.json({ ok: true });
   } catch (e) {
-    console.error("[contact]", e);
+    const detail = e instanceof Error ? e.message : String(e);
+    console.error("[contact] send_failed:", detail);
     return NextResponse.json({ error: "send_failed" }, { status: 500 });
   }
 }
